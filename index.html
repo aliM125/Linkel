@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Link element</title>
+	</head>
+	<body>
+		<h1>Linkel Demo</h1>
+		<p>This is a simple paragraph that use to test this plugin and <span>this text</span> will be a link.</p>
+		
+		<script type="text/javascript" src="jquery.min.js"></script>
+		<script type="text/javascript" src="jquery.linkel.js"></script>
+		<script>
+			$(document).ready(function(){
+				$("span").linkel({
+					href: 'http://www.test.com',
+					text: 'Click Here',
+					target: '_blank'
+				});
+			});
+		</script>
+	</body>
+</html>
