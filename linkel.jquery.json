@@ -1,6 +1,6 @@
 {
     "name": "linkel",
-    "title": "LinkEl jQuery Plugin",
+    "title": "Linkel jQuery Plugin",
     "description": "Simple plugin to convert any element into a link.",
     "keywords": [
         "link",
@@ -9,8 +9,7 @@
     ],
     "version": "0.2.0",
     "author": {
-        "name": "Ali Mortazavi",
-        "url": "https://github.com/aliM125"
+        "name": "Ali Mortazavi"
     },
     "maintainers": [
         {
@@ -22,7 +21,7 @@
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/aliM125/Linkel/blob/master/LICENSE.txt
+            "url": "https://github.com/aliM125/Linkel/blob/master/LICENSE.txt"
         }
     ],
     "homepage": "https://github.com/aliM125/Linkel",

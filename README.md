@@ -6,7 +6,11 @@
 0.2.0
 
 ## Usage ##
-
+    $("span").linkel({
+		href: 'http://www.test.com',
+		text: 'Click Here',
+		target: '_blank'
+	});
 
 ## Vendors ##
 jQuery - [http://jquery.com](http://jquery.com)
